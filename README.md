@@ -23,7 +23,7 @@ Key Features :-
 
 
 
-Dashboard 1 – Sales Overview
+# Dashboard 1 – Sales Overview
 <img width="1333" height="719" alt="Screenshot 2025-08-13 033052" src="https://github.com/user-attachments/assets/e3ecf17a-4cfe-436b-8c45-a1dd2c2a9926" />
 
 
@@ -44,7 +44,7 @@ Includes:-
 
 - 
 
-Dashboard 2 – 15-Day Sales Forecast
+# Dashboard 2 – 15-Day Sales Forecast
 <img width="1295" height="716" alt="Screenshot 2025-08-13 033115" src="https://github.com/user-attachments/assets/907a5465-84ad-421a-9ac7-e34d2f4f9f59" />
 
 
