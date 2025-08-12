@@ -1,7 +1,7 @@
 # Superstore Sales Power BI Dashboard
 
 
-Overview
+
 This Power BI project provides a comprehensive view of the Superstore’s sales performance, profitability, and forecasting insights. It includes KPI cards, trend analyses, category-wise breakdowns, and geographic visualizations to help in data-driven decision-making.
 
 Key Features :- 
