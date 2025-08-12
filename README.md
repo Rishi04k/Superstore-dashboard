@@ -1,21 +1,25 @@
 # Superstore Sales Power BI Dashboard
+
+
 Overview
 This Power BI project provides a comprehensive view of the Superstore’s sales performance, profitability, and forecasting insights. It includes KPI cards, trend analyses, category-wise breakdowns, and geographic visualizations to help in data-driven decision-making.
 
-Key Features
-Sales, Profit, Quantity, and Delivery KPIs for quick business insights.
+Key Features :- 
 
-Segment, Payment Mode, and Category Analysis to identify key revenue contributors.
+- Sales, Profit, Quantity, and Delivery KPIs for quick business insights.
 
-Year-over-Year Trends for monthly sales and profit.
+- Segment, Payment Mode, and Category Analysis to identify key revenue contributors.
 
-Geographical Sales & Profit Map to understand regional performance.
+- Year-over-Year Trends for monthly sales and profit.
 
-Sub-Category & Ship Mode Analysis to identify product and delivery trends.
+- Geographical Sales & Profit Map to understand regional performance.
 
-15-Day Sales Forecasting for short-term planning.
+- Sub-Category & Ship Mode Analysis to identify product and delivery trends.
 
-City-Wise Sales Ranking for targeted marketing.
+- 15-Day Sales Forecasting for short-term planning.
+
+- City-Wise Sales Ranking for targeted marketing.
+
 
 
 
@@ -24,19 +28,21 @@ Dashboard 1 – Sales Overview
 
 
 
-Includes:
+Includes:-
 
-Sales, Profit, Quantity, Avg Delivery KPIs
+- Sales, Profit, Quantity, Avg Delivery KPIs
 
-Sales by Segment & Payment Mode
+- Sales by Segment & Payment Mode
 
-Monthly Sales & Profit YoY Trends
+- Monthly Sales & Profit YoY Trends
 
-Sales by Ship Mode & Category
+- Sales by Ship Mode & Category
 
-Sub-Category performance
+- Sub-Category performance
 
-Sales & Profit by State Map
+- Sales & Profit by State Map
+
+- 
 
 Dashboard 2 – 15-Day Sales Forecast
 <img width="1295" height="716" alt="Screenshot 2025-08-13 033115" src="https://github.com/user-attachments/assets/907a5465-84ad-421a-9ac7-e34d2f4f9f59" />
@@ -45,23 +51,17 @@ Dashboard 2 – 15-Day Sales Forecast
 
 Includes:
 
-Daily Sales Trends
+- Daily Sales Trends
 
-15-Day Sales Forecast Visualization
+- 15-Day Sales Forecast Visualization
 
-City-Wise Sales Distribution
+- City-Wise Sales Distribution
 
-Historical Sales Patterns by Order Date
+- Historical Sales Patterns by Order Date
 
-Data Source
-Superstore Dataset (Sample) – includes sales transactions with customer, product, shipping, and geographic details.
 
-Tools Used
-Power BI Desktop for data modeling, visualization, and DAX calculations.
 
-DAX Measures for KPI and trend analysis.
 
-Map Visuals for geographic insights.
 
-Conclusion
+Conclusion :- 
 This dashboard provides a powerful and interactive platform to monitor business performance, track trends, and forecast sales, enabling informed and timely decision-making.
